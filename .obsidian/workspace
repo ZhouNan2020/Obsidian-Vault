@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "67c7d59dd8ecacd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c5353a5422d952",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Python/附件/Pasted image 20220908210223.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25bd91f175b772de",
+    "type": "split",
+    "children": [
+      {
+        "id": "3303c7245d852fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ba3e13d9028296",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "870cee4257d738fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bff7af30eadd0b6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.0016689300537
+  },
+  "right": {
+    "id": "5c326a18620169c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2141b8ef0e065105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4509796041233c29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python/附件/Pasted image 20220908210223.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58f85e7edc00620a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python/附件/Pasted image 20220908210223.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e068e844bc0041c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0875b4165b9232ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python/附件/Pasted image 20220908210223.png"
+              }
+            }
+          },
+          {
+            "id": "63bfc312ddff8081",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "211b2ba1c6bd65a9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "328e815c2aeda8be",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.2259521484375
+  },
+  "active": "09c5353a5422d952",
+  "lastOpenFiles": [
+    "Python/面向对象/定义.md",
+    "Python/面向对象/未命名.md",
+    "书单/30岁.md",
+    "Python/matplotlib/matplotlib全局设置.md",
+    "书单/TCM-dot.md",
+    "Python/matplotlib/matplotlib的画布分区.md",
+    "Python/matplotlib/matplotlib手卡.md",
+    "Python/MySQL.md",
+    "MySQL/未命名.md",
+    "起名.md"
+  ]
+}
