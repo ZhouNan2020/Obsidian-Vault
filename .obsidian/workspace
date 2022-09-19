@@ -7,9 +7,11 @@
         "id": "09c5353a5422d952",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Python/附件/Pasted image 20220908210223.png"
+            "file": "Python/面向对象/类的self与__init__.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/附件/Pasted image 20220908210223.png",
+                "file": "Python/面向对象/类的self与__init__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/附件/Pasted image 20220908210223.png",
+                "file": "Python/面向对象/类的self与__init__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/附件/Pasted image 20220908210223.png"
+                "file": "Python/面向对象/类的self与__init__.md"
               }
             }
           },
@@ -144,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -153,14 +155,14 @@
   "active": "09c5353a5422d952",
   "lastOpenFiles": [
     "Python/面向对象/定义.md",
-    "Python/面向对象/未命名.md",
+    "Python/面向对象/类的self与__init__.md",
+    "Python/附件/Pasted image 20220908210223.png",
     "书单/30岁.md",
     "Python/matplotlib/matplotlib全局设置.md",
     "书单/TCM-dot.md",
     "Python/matplotlib/matplotlib的画布分区.md",
     "Python/matplotlib/matplotlib手卡.md",
     "Python/MySQL.md",
-    "MySQL/未命名.md",
-    "起名.md"
+    "MySQL/未命名.md"
   ]
 }
