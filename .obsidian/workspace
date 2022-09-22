@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "09c5353a5422d952",
+        "id": "2992739c02903a5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/面向对象/类的self与__init__.md",
+            "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.0016689300537
+    "width": 259.0016689300537
   },
   "right": {
     "id": "5c326a18620169c3",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/面向对象/类的self与__init__.md",
+                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/面向对象/类的self与__init__.md",
+                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/面向对象/类的self与__init__.md"
+                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md"
               }
             }
           },
@@ -150,19 +150,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.2259521484375
+    "width": 395.2259521484375
   },
-  "active": "09c5353a5422d952",
+  "active": "2992739c02903a5e",
   "lastOpenFiles": [
-    "Python/面向对象/定义.md",
-    "Python/面向对象/类的self与__init__.md",
-    "Python/附件/Pasted image 20220908210223.png",
-    "书单/30岁.md",
-    "Python/matplotlib/matplotlib全局设置.md",
-    "书单/TCM-dot.md",
-    "Python/matplotlib/matplotlib的画布分区.md",
-    "Python/matplotlib/matplotlib手卡.md",
+    "Other/9种BI统计切入点.md",
+    "Other/特征选择方法.md",
+    "Other/stata预测模型样本量计算.md",
+    "Temp/2022.9.23肺炎研究线上沟通要点.md",
     "Python/MySQL.md",
-    "MySQL/未命名.md"
+    "Python/matplotlib/matplotlib全局设置.md",
+    "Python/matplotlib/matplotlib手卡.md",
+    "Python/matplotlib/matplotlib的画布分区.md",
+    "Python/面向对象/类的self与__init__.md",
+    "Python/面向对象/定义.md"
   ]
 }

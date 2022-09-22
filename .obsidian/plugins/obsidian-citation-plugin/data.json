@@ -1,9 +1,0 @@
-{
-  "citationExportFormat": "biblatex",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Reading notes",
-  "literatureNoteContentTemplate": "* {{citekey}}\n* {{abstract}}\n* {{authorString}}\n* {{containerTitle}}\n* {{DOI}}\n* {{eprint}}\n* {{eprinttype}}\n* {{eventPlace}}\n* {{page}}\n* {{publisher}}\n* {{publisherPlace}}\n* {{title}}\n* {{URL}}\n* {{year}}\n* {{zoteroSelectURI}}",
-  "markdownCitationTemplate": "[@{{citekey}}]",
-  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "C:\\Myfiles\\Zotero-ob\\Obsidian.bib"
-}
