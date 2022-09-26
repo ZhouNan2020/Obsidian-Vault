@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2992739c02903a5e",
+        "id": "e7ab5342e9c941f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
+            "file": "Other/9种BI统计切入点.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
+                "file": "Other/9种BI统计切入点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md",
+                "file": "Other/9种BI统计切入点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/2022.9.23肺炎研究线上沟通要点.md"
+                "file": "Other/9种BI统计切入点.md"
               }
             }
           },
@@ -152,17 +152,17 @@
     "direction": "horizontal",
     "width": 395.2259521484375
   },
-  "active": "2992739c02903a5e",
+  "active": "b6ba3e13d9028296",
   "lastOpenFiles": [
-    "Other/9种BI统计切入点.md",
-    "Other/特征选择方法.md",
-    "Other/stata预测模型样本量计算.md",
-    "Temp/2022.9.23肺炎研究线上沟通要点.md",
     "Python/MySQL.md",
-    "Python/matplotlib/matplotlib全局设置.md",
-    "Python/matplotlib/matplotlib手卡.md",
-    "Python/matplotlib/matplotlib的画布分区.md",
-    "Python/面向对象/类的self与__init__.md",
-    "Python/面向对象/定义.md"
+    "Python/面向对象/__repr__.md",
+    "Python/面向对象/类的内省工具.md",
+    "Python/面向对象/定义.md",
+    "Python/面向对象/类的继承.md",
+    "Other/stata预测模型样本量计算.md",
+    "Other/特征选择方法.md",
+    "Other/9种BI统计切入点.md",
+    "Python/保留字/lambda.md",
+    "Temp/2022.9.23肺炎研究线上沟通要点.md"
   ]
 }
