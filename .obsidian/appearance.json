@@ -4,5 +4,6 @@
   "cssTheme": "obsidian_ia",
   "interfaceFontFamily": "Adobe 黑体 Std",
   "textFontFamily": "微软雅黑,Adobe 宋体 Std",
-  "monospaceFontFamily": "Times New Roman"
+  "monospaceFontFamily": "Times New Roman",
+  "accentColor": ""
 }
