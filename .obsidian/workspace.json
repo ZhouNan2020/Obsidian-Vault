@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "22628b8a61696acc",
+        "id": "aa3da37587dea835",
         "type": "tabs",
         "children": [
           {
-            "id": "d899230294914eda",
+            "id": "31b443e8c187e036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/stata预测模型样本量计算.md",
+                "file": "孙思邈论文/存神炼气铭原文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7783635247eaeeac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/2022年11月11日.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/stata预测模型样本量计算.md",
+                "file": "Temp/2022年11月11日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/stata预测模型样本量计算.md",
+                "file": "Temp/2022年11月11日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/stata预测模型样本量计算.md"
+                "file": "Temp/2022年11月11日.md"
               }
             }
           },
@@ -153,27 +166,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 434
+    "width": 355
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d899230294914eda",
+  "active": "7783635247eaeeac",
   "lastOpenFiles": [
-    "Other/特征选择方法.md",
+    "孙思邈论文/存神炼气铭原文.md",
+    "孙思邈论文/气本论.md",
     "Other/9种BI统计切入点.md",
-    "Python/MySQL.md",
-    "Python/面向对象/__repr__.md",
-    "Python/面向对象/定义.md",
+    "Python/matplotlib/坐标轴加数据标签和zip保留字.md",
+    "Python/保留字/enumerate.md",
     "Python/保留字/lambda.md",
-    "Python/tkinter/写入文件.md",
-    "Python/数据类型/推导式.md",
-    "Python/面向对象/类的self与__init__.md",
-    "Python/面向对象/类的继承.md"
+    "Python/保留字/zip.md",
+    "Other/stata预测模型样本量计算.md",
+    "Other/特征选择方法.md",
+    "Python/MySQL.md"
   ]
 }
